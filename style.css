@@ -1,0 +1,197 @@
+
+
+.bg-light{
+       background-color: black !important;
+}
+
+.nav-link{
+    color: white !important;
+}
+
+.HOME{
+    background-color: blue !important;
+}
+
+.nav-item{
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
+
+.nav-item:hover{
+    background-color: #1E90FF;
+    
+}
+
+.navbar{
+    padding: 0 !important;
+}
+
+/* .banner img {
+    width: 100%;
+    height: auto;
+} */
+
+
+.img{
+    background-image: url(bg1.jpg);
+    height: 500px;
+    color: black;
+}
+.btn-dark{
+    background-color: black;
+}
+
+.jumbotron{
+    background-color: none !important;
+}
+.aqua{
+    background-color: #1E90FF;
+}
+
+.pad{
+    padding-top: 50px;
+    padding-bottom: 40px;
+}
+
+.pad1{
+    padding-top: 127px;
+}
+
+.h{
+    padding-top: 50px;
+}
+
+.h h1{
+    text-align: center;
+    color: #1E90FF;
+}
+
+.h p{
+    text-align: center;
+    color: white;
+}
+
+.p{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.p h1{
+    color: white;
+}
+
+.p  p{
+    color: white;
+}
+
+.p h4{
+    color: white;
+}
+.A h1{
+    text-align: center;
+    color: black;
+}
+
+.A p{
+    text-align: center;
+    color: black;
+}
+
+.cl{
+    background-color: black;
+}
+
+.b h3{
+    color: black;
+}
+
+.b p{
+    color: black;
+}
+
+#cent h1{
+   text-align: center;
+
+
+}
+#cent p{
+    text-align: center;
+}
+
+.footer{
+    background-color: #1E90FF;
+}
+.contact{
+    background-color: black;
+}
+
+.about{
+    background-color: #1E90FF;
+}
+
+.service{
+    background-color: black;
+}
+
+
+.team{
+    background-color: black;
+}
+
+.pricing{
+    background-color: black;
+}
+
+.stats{
+    background-color: #1E90FF;
+}
+
+.works h6{
+    border: 1px solid #1E90FF ;
+    padding: 10px;
+    width: 100%;
+}
+
+.works h6:hover{
+    background-color: #1E90FF;
+    color: white !important;
+}
+
+form input{
+    display: block;
+    width: 100%;
+    padding: 5px;
+}
+
+form textarea{
+    display: block;
+    width: 100%;
+    padding: 5px;
+}
+
+.card-body img{
+    padding: 10px;
+}
+
+.social{
+    background-color: black;
+    padding: 7px;
+    width: 40%;
+    border-radius: 5px;
+    
+}
+
+.social img{
+    padding: 5px;
+    
+
+}
+
+.card{
+  margin: auto;
+    
+}
+.car{
+    border: 1px solid white;
+    width: 100%;
+}
